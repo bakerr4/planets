@@ -1,3 +1,3 @@
-I am a jabroni trynta learn how to use git. It's gittin on my nerves, but I'm staged to commit
+I am a jabroni learnin how to use git. It's gittin on my nerves, but I'm staged to commit
 
-I see the status, and I'm gittin init
+I see the status now, and I'm gittin init
